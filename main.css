@@ -1,0 +1,17 @@
+header{
+    display: flex;
+}
+
+.logo{
+    background-color: lightblue;
+    width: 200px;
+}
+
+.linkler{
+    background-color: lightcoral;
+}
+
+.linkler a{
+    font-size: 38px;
+    text-decoration: none;
+}
